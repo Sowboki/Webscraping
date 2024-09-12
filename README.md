@@ -19,7 +19,7 @@ Le projet se compose de plusieurs exercices pratiques permettant d’aborder les
 
 2. **Exercice Open Meteo** : Analyse et visualisation des données météorologiques pour Aurillac sur plusieurs décennies (1983, 1993, 2003, 2013, 2023) afin de détecter les tendances climatiques.
 
-3. **Projet de Tableau de Bord** : Utilisation de l’API du Metropolitan Museum of Art pour créer un tableau de bord interactif, illustrant l'état des collections du musée selon un axe d'étude de votre choix.
+3. **Projet de Tableau de Bord** : Utilisation de l’API du Metropolitan Museum of Art pour créer un tableau de bord interactif, illustrant l'état des collections du musée selon un axe d'étude de votre choix (moi de coté j'ai choisi l'empire egyptien).
 
 ## Technologies Utilisées
 
