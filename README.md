@@ -22,9 +22,8 @@ Ce projet utilise l'API du Metropolitan Museum of Art, disponible à l'adresse [
 ### Deliverables
 
 Ce dépôt GitHub comprend :
-- Le code source complet pour interroger l'API et produire des visualisations.
+- Le code source complet pour interroger l'API et produire des visualisations (avec Power BI).
 - Tous les fichiers de données intermédiaires utilisés ou générés pendant le projet.
-- Une documentation claire pour exécuter les scripts et interpréter les visualisations.
 
 ### Accès au Projet
 
